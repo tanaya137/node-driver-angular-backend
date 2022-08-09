@@ -17,11 +17,5 @@ ALGORITHM:
 4.	On sending the command through the Driver it will show the respective value.
 5.	To demonstrate we have taken the random value generator function and with the probability it is showing the weights
 
-
-WEIGHTS:
-1.	Stable weight – 80%<br />
-2.	Command not executable – 10%<br />
-3.	Balance in overload range – 5%<br />
-4.	Balance in underload range – 5%<br />
  
  <img width="493" alt="Driver-insrument-block_Dig" src="https://user-images.githubusercontent.com/53856363/183771555-fe4cf56c-45bf-4825-9fd0-556b8af09e58.png">
