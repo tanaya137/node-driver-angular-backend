@@ -3,10 +3,12 @@
 INSTALLATION:
 1.	Download node from the web: https://nodejs.org/en/download/ and install.
 2.	Open command prompt and install npm in your system globally, next enter the following commands:
-	npm i
-	npm i -g concurrently
-	npm install -g @angular/cli
-	npm start
+
+•	npm i
+•	npm i -g concurrently
+•	npm install -g @angular/cli
+•	npm start
+
 
 
 ALGORITHM:
