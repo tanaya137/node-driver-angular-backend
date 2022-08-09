@@ -1,4 +1,5 @@
 # node-driver-angular-backend
+This is the driver backend app. The driver front end (angular) app and the instrument simulator app is hosted separately.
 
 INSTALLATION:
 1.	Download node from the web: https://nodejs.org/en/download/ and install.
