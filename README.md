@@ -15,10 +15,11 @@ ALGORITHM:
 3.	The device has subscribed to the instrument published data through the broker.
 4.	On sending the command through the Driver it will show the respective value.
 5.	To demonstrate we have taken the random value generator function and with the probability it is showing the weights
-•	Stable weight – S – 80%
-•	Command not executable – 10%
-•	Balance in overload range – 5%
-•	Balance in underload range – 5%
+i.	Stable weight – S – 80%
+ii.	Command not executable – 10%
+iii.	Balance in overload range – 5%
+iv.	Balance in underload range – 5%
+
 
  
  <img width="493" alt="Driver-insrument-block_Dig" src="https://user-images.githubusercontent.com/53856363/183771555-fe4cf56c-45bf-4825-9fd0-556b8af09e58.png">
