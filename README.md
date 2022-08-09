@@ -18,7 +18,7 @@ ALGORITHM:
 
 WEIGHTS:
 
-a)	Stable weight – S – 80%
+a)	Stable weight – 80%
 b)	Command not executable – 10%
 c)	Balance in overload range – 5%
 d)	Balance in underload range – 5%
